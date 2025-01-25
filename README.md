@@ -1,2 +1,2 @@
 # API_Testing_Postman
-API testing examples with Postman collections
+Validation of API endpoints for a sample application.
