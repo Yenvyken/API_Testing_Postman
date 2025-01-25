@@ -1,2 +1,2 @@
-# Basic-github-task
-This is my first github task
+# API_Testing_Postman
+API testing examples with Postman collections
